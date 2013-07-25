@@ -1,4 +1,4 @@
-jgen
+jGen
 ====
 
-Javascript form &amp; list generation library
+A Javascript form &amp; list generation library.
